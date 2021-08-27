@@ -1,0 +1,25 @@
+commit c9b37a7d64b93e368db9cf8f576300f0    v0.0.1
+branch : master
+user : nithish2032    nithish2032@gmail.com
+Time : Thu Apr 29 16:02:11 2021
+Message : Added add and subtract functions for two numbers
+
+commit d1cf913974ba0813b7bdab86f32e8b85    v0.0.2
+branch : master
+user : nithish2032    nithish2032@gmail.com
+Time : Thu Apr 29 16:09:30 2021
+Message : Modified add function and added mulitply and remainder function.
+
+commit 987a1791742676f43b3af891e44ffc23    v0.0.3
+branch : master
+user : nithish2032    nithish2032@gmail.com
+Time : Thu Apr 29 16:12:39 2021
+Message : Deleted muliply and added greater functioncommit d81fdc0fa4c4fb807017e13382ff516b    v0.0.4
+branch : master
+user : nithish2032    nithish2032@gmail.com
+Time : Wed May 26 19:21:45 2021
+Message : Added function5commit b333c0563b68dc731f33fb369dd299eb    v0.0.5
+branch : master
+user : nithish2032    nithish2032@gmail.com
+Time : Wed May 26 19:28:09 2021
+Message : Added function6

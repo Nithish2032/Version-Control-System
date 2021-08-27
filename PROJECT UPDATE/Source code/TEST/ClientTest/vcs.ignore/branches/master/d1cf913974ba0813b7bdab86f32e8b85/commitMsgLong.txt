@@ -1,0 +1,5 @@
+Modified add function and added mulitply and remainder function.
+
+Earlier add function adds only two numbers.Now it is modified to add three numbers.
+Multiply function takes two numbers and returns the product of those two numbers.
+Remainder function takes two numbers and returns the remainder.
